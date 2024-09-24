@@ -137,6 +137,7 @@ section{
 .btn-group{
     display: flex;
     gap: 1rem;
+    color: black
 
 }
 .btn{
