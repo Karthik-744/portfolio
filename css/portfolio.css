@@ -461,16 +461,16 @@ footer ul li a{
     }
     header #menu-icon:hover{
         transition: 0.4s ease-in-out;
-        transform: scale(1.2);
+        transform: scale(1.1);
         background: linear-gradient(to right,rgb(81, 140, 241),rgb(248, 27, 252));
         background-clip: text;
         color: transparent;
     }
     .info-box h1{
-        font-size: 3.5rem;
+        font-size: 3.2rem;
     }
     .info-box{
-        margin-left: 4vw;
+        margin-left: 2.8vw;
     }
     .nav-links{
         position: absolute;
@@ -521,7 +521,7 @@ footer ul li a{
     }
     .experience-info{
         display: flex;
-        margin-left: 1.8vw;
+        margin-left: 1.6vw;
         width: 80vw;
     }
     .section-title{
@@ -547,7 +547,7 @@ footer ul li a{
     .Projects-grid{
         max-width: 10px;
         display: flex;
-        margin-left: 2vw;
+        margin-left: 1.8vw;
     }
     .projects-card h3{
         font-size: 1.5rem;
@@ -556,7 +556,7 @@ footer ul li a{
         font-size: 0.8rem;
     }
     .projects-card img{
-        height: 40vw;
+        height: 42vw;
         width: 70vw;
         border-radius: none;
     }
@@ -587,7 +587,7 @@ footer ul li a{
     }
     
     .input-box input::placeholder{
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
     footer ul{
         gap: 1rem;
@@ -597,7 +597,7 @@ footer ul li a{
         margin-left: 4.6vw;
     }
     .input-box .btn{
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         margin-left: 5vw;
         width: 30vw;
         text-align: center;
@@ -605,6 +605,6 @@ footer ul li a{
         height: 10vw;
     }
     ::-webkit-scrollbar{
-        width: 6px;
+        width: 7px;
     }
 }
